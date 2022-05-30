@@ -12,6 +12,7 @@ public class StudentDetails {
 
     /**
      * @param args the command line arguments
+     * hey how are you!
      */
     public static void main(String[] args) {
         // create objects for array and print them

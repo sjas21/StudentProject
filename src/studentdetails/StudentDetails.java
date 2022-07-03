@@ -11,6 +11,7 @@ package studentdetails;
 public class StudentDetails {
 
     /**
+     * Hey! Jaswinder how're you?
      * @param args the command line arguments
      * hey how are you!
      */

@@ -15,6 +15,7 @@ public class StudentDetails {
      * @param args the command line arguments
      * hey how are you!
      * pull operation to be done - make some changes.
+     * fetch and merge
      */
     public static void main(String[] args) {
         // create objects for array and print them
